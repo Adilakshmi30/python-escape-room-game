@@ -94,7 +94,7 @@ def escape_room():
         print(f"Lives left{lives}")
         print(f"Badges collected:{collected_badges}")
 
-        if len(collected_badges) == 3:
+        if len(completed_doors) == 3:
             print("Congratulations! You Escaped the room!")
             break
 
