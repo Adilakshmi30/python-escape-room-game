@@ -25,6 +25,9 @@ A console-based Escape Room game built with Python.
 ```bash
 python escape_room.py
 ```
+Project Goal
+
+This project was created to improve programming, logical thinking, and problem-solving skills through hands-on Python development.
 
 ## Author
 
